@@ -1,2 +1,2 @@
 # RF_Temp_monitoring
-RF Temperature sensor based on resonant crystals
+Автоподбор шага(указываем только стартовую и конечную частоту). Ускоренное сканирование дапазона.
