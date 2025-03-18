@@ -17,9 +17,15 @@ LD    -    D8
 строка 296 - 
 
  for (i = 5 ; i > -1 ; i--) {
+ 
     writeDev(i, R[i]) ;
+    
     delayMicroseconds(5) ;   - заменить 2500 на 5 
+    
   }
+  
 delayMicroseconds(2500) ; - добавить эту строку
+
   return 0 ;  // ok
+  
 }
