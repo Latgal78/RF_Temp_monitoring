@@ -5,11 +5,11 @@
 
 Подключение 
 ADF4351 - LGT328
-CE        D2
-LE        D9
-DAT       D11
-CLK       D13
-LD        D8
+CE    -    D2
+LE    -   D9
+DAT   -    D11
+CLK   -    D13
+LD    -    D8
 
 
 В файле библиотеки adf4351.cpp необходимо исправить
